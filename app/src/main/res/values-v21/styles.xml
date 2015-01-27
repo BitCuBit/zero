@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/accent</item>
+        <item name="android:colorButtonNormal">#2196f3</item>
+    </style>
+
+    <style name="style_button_know" parent="AppTheme">
+        <item name="android:colorButtonNormal">@color/color_button_known</item>
+    </style>
+
+
+
+
+
+    <color name="primary_dark">#CADFFA</color>
+    <color name="primary">#717C98</color>
+    <color name="accent">#000000</color>
+
+    <color name="color_button_reset">#FF2100</color>
+    <color name="color_button_new">#97CF58</color>
+    <color name="color_button_known">#FFC200</color>
+    <color name="color_button_back">#61A3D8</color>
+    <color name="color_button_exit">#61A3D8</color>
+
+</resources>
