@@ -24,6 +24,8 @@ public class zero_db {
     private float error_avance;
     private float porc_acierto;
 
+
+
     public zero_db() {
     }
 
